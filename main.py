@@ -90,4 +90,8 @@ def ayurvedic_bot():
 
 
 if __name__ == "__main__":
+<<<<<<< HEAD
     ayurvedic_bot()
+=======
+    ayurvedic_bot()
+>>>>>>> 9447b1f4c716ff18145c5709f50aa41724b7a76c
